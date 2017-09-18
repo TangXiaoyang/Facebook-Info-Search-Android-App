@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Facebook Search</string>
+    <string name="main_activity_title">Search on FB</string>
+    <string name="about_me_title">About Me</string>
+    <string name="my_name">Xiaoyang Tang</string>
+    <string name="my_usc_id">9680642307</string>
+    <string name="favorite_title">Favorites</string>
+    <string name="result_title">Results</string>
+    <string name="detail_title">More Details</string>
+    <string name="facebook_app_id">194832731022298</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
